@@ -1,0 +1,12 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 6d04346..6186d39 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,7 @@[m
+ # git 練習[m
+ hello.py：実行すると「Hello, Git!」と表示するプログラム[m
+[32m+[m
+[32m+[m[32mdef greet(name):[m
+[32m+[m[32m    print(f"Hello, {name}!")[m
+[32m+[m
+[32m+[m[32mgreet("Git")[m
